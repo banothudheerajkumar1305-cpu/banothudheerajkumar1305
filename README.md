@@ -38,7 +38,7 @@ I'm working towards becoming a strong **ECE + Software Engineer** by building pr
 
 ## 🤝 Connect With Me
 
-* LinkedIn: Banothu dheeraj kumar
+* LinkedIn: Banothu Dheeraj kumar
 * Email: banothudheerajkumar1305@gmail.com
 
 ---
