@@ -27,8 +27,6 @@
 * 📝 To-Do List
 * 🧮 Calculator
 * 🌐 Web Development Projects
-* 🏙️ Smart City / Crowd Monitoring Projects
-* 🔧 Electronics & ECE Projects
 
 ## 🎯 Goals
 
